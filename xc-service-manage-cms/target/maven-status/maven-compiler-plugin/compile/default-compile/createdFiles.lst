@@ -1,0 +1,6 @@
+com\xuecheng\manage_cms\ManageCmsApplication.class
+com\xuecheng\manage_cms\dao\CmsPageRepository.class
+com\xuecheng\manage_cms\config\CorsConfig.class
+com\xuecheng\manage_cms\config\WebMvcConfig.class
+com\xuecheng\manage_cms\controller\CmsPageController.class
+com\xuecheng\manage_cms\service\PageService.class
